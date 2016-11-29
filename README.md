@@ -1,5 +1,5 @@
 # Tensorflow Image Classification
-CNN for mutli-class image recognition in tensorflow
+CNN for mutlti-class image recognition in tensorflow
 
 Notebook converted from Hvass-Labs' <a href="https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb" >tutorial</a> in order to work with custom datasets, flexible image dimensions, and a deeper network. 
 
