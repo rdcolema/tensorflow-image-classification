@@ -1,2 +1,6 @@
-# tensorflow-image-classification
+# Tensorflow Image Classification
 CNN for mutli-class image recognition in tensorflow
+
+Notebook converted from Hvass-Labs' <a href="https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb" >tutorial</a> in order to work with custom datasets, flexible image dimensions, and a deeper network. 
+
+This example uses Kaggle's cats vs. dogs <a href="https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data">dataset</a>.
