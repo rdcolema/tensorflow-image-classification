@@ -59,7 +59,7 @@ scipy==1.3.0
 Send2Trash==1.5.0
 six==1.12.0
 tensorboard==1.12.2
-tensorflow==1.12.0
+tensorflow==1.15.2
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
