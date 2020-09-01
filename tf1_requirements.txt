@@ -1,8 +1,8 @@
 # Created with anaconda environment, non-conda requirements may differ
 # tensorflow-gpu compiled with cuda 9.0 and cudnn 7.6
 
-matplotlib==3.1.0
-nb-conda==2.2.1
+matplotlib==3.3.1
+nb_conda==2.2.1
 numpy==1.16.4
 pandas==0.25.0
 scikit-learn==0.21.2
