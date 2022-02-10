@@ -3,7 +3,7 @@
 
 matplotlib==3.3.1
 nb_conda==2.2.1
-numpy==1.16.4
+numpy==1.21.0
 pandas==0.25.0
 scikit-learn==0.21.2
 tensorflow==2.5.3
