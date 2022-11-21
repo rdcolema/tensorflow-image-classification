@@ -6,5 +6,5 @@ nb_conda==2.2.1
 numpy==1.22.0
 pandas==0.25.0
 scikit-learn==0.21.2
-tensorflow==2.7.2
+tensorflow==2.9.3
 
